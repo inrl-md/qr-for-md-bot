@@ -1,3 +1,4 @@
+//if the qr have any error, it mean this {whatsapp-bot-pack} package is not up-to-date 
 module.exports = {
        MONGO_URL : '',//enter your mongodb url to get and store youe session!
        SESSION_PREFIX : 'inrl~'// defult value of the satrting of your session
